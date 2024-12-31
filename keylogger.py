@@ -9,7 +9,7 @@ import os
 smtp_server = "smtp-tsilavina.alwaysdata.net"
 smtp_port = 587
 username = "tsilavina@alwaysdata.net"  # Remplace par ton adresse email
-password = "@Tsilavina2610"  # Remplace par ton mot de passe
+password = ""  # Remplace par ton mot de passe
 sender_email = username
 receiver_email = "rakotoarivonyalifera27@gmail.com"
 log = ""
